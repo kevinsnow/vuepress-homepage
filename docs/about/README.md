@@ -18,7 +18,7 @@ actions:
 - text: Projects
   link: /projects/
 - text: Blog
-  link: https://github.com/mtobeiyf
+  link: https://github.com/kevinsnow
 - text: CV
   link: /article/
 footer: Made with ♥ by Fing. Powered by VuePress
