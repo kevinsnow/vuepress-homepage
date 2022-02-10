@@ -2,18 +2,18 @@
 pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+head: 'Kevn, Zhaobin XIA'
+info: 'Senior DevOps @ SPH'
+interests: 'Interests: Hiking, Marvel movies and series.'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/kevinsnow
 - title: linkedin
-  link: https://www.linkedin.com
+  link: https://www.linkedin.com/in/zhaobinxia/
 - title: instagram
-  link: https://www.instagram.com
+  link: 
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:kevin[at]neversummer.com'
 actions:
 - text: Projects
   link: /projects/
@@ -26,7 +26,7 @@ footer: Made with ♥ by Fing. Powered by VuePress
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+Test
 
 </AboutCard>
 
