@@ -2,7 +2,7 @@
 pageClass: home-page
 # some data for the components
 
-name: Kevin, Zhaobin XIA
+name: Kevin XIA
 profile: /profile.jpg
 
 socials:
@@ -16,7 +16,7 @@ socials:
     icon: "/icons/instagram-mono.svg"
     link: 
 
-bio: Senior DevOps @ SPH
+bio: Senior DevOps
 email: kevin (at) neversummer (dot) net
 ---
 
@@ -29,7 +29,7 @@ TBA
 
 ## News
 
-- [Feb 2022] Joined SPH as Senior DevOps
+- [Feb 2022] Started my public cloud and DevOps journey as Senior DevOps
 - [Dec 2016] Joined Boeing as Systems Analyst
 
 
