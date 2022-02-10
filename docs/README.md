@@ -46,11 +46,10 @@ TBA
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard hideBorder=true>
 
   TBA
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+
 
 </ProjectCard>
 
@@ -66,8 +65,6 @@ TBA
 
 
 ## Awards & Honors
-
-### Contests
 
 - TBA
 
