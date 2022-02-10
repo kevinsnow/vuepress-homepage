@@ -2,44 +2,43 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Kevin, Zhaobin XIA
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/kevinsnow
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/zhaobinxia/
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: 
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Senior DevOps @ SPH
+email: kevin (at) neversummer (dot) net
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
-
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+TBA
 
 
 ## News
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [Feb 2022] Joined SPH as Senior DevOps
+- [Dec 2016] Joined Boeing as Systems Analyst
 
 
 ## Education & Experiences
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **National University of Singapore** <br/>
+2017 - 2018
+
+TBA
 
 
 ## Projects
@@ -49,11 +48,7 @@ Sept 1991 - 1997
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 
-  **The Making of Harry Potter's Wand**
-
-  Harry P., Hermione G., *et al*
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
+  TBA
   
   [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
 
@@ -61,9 +56,9 @@ Sept 1991 - 1997
 
 <ProjectCard hideBorder=true>
 
-  **Harry Potter and the Deathly Hallows**
+  **Title**
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  TBA
 
   [[Link](https://www.google.com)]
 
@@ -74,7 +69,7 @@ Sept 1991 - 1997
 
 ### Contests
 
-- First place in **The Hogwarts House Cup**
+- TBA
 
 
 <!-- Custom style for this page -->
