@@ -1,8 +1,8 @@
 ---
 pageClass: about-page
 description: 'The biography and information about me.'
-avatar: /profile.jpg
-head: 'Kevn, Zhaobin XIA'
+avatar: 
+head: 'Kevin, Zhaobin XIA'
 info: 'Senior DevOps @ SPH'
 interests: 'Interests: Hiking, Marvel movies and series.'
 socials:
