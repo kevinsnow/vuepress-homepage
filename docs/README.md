@@ -16,7 +16,7 @@ socials:
     icon: "/icons/instagram-mono.svg"
     link: 
 
-bio: Senior DevOps
+bio: Senior Engineer (DevOps)
 email: kevin (at) neversummer (dot) net
 ---
 
@@ -29,6 +29,7 @@ TBA
 
 ## News
 
+- [Jun 2022] Started new career at Tencent as Senior DevOps Enginner (SRE)
 - [Feb 2022] Started my public cloud and DevOps journey as Senior DevOps
 - [Dec 2016] Joined Boeing as Systems Analyst
 
